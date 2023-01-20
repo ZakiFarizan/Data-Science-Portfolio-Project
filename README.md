@@ -12,5 +12,5 @@ Tools:
 
 ## Deep Learning
 - [Natural Languange Processing](https://github.com/ZakiFarizan/Data-Science-Portfolio-Project/blob/main/Machine%20Learning%20Model/Submission_NLP.ipynb) : Build NLP model using Conventional Neural Network (CNN) to classifies emotion based on sentence
-- [Time Series](https://github.com/ZakiFarizan/Data-Science-Portfolio-Project/blob/main/Machine%20Learning%20Model/Submission_Time_Series.ipynb) : Build deel learning model using CNN to model time series dataset (Silver Price 1990-2020)
+- [Time Series](https://github.com/ZakiFarizan/Data-Science-Portfolio-Project/blob/main/Machine%20Learning%20Model/Submission_Time_Series.ipynb) : Build deep learning model using CNN to model time series dataset (Silver Price 1990-2020)
 - [Image Classification](https://github.com/ZakiFarizan/Data-Science-Portfolio-Project/blob/main/Machine%20Learning%20Model/Final_Submission_Image_Classification.ipynb) : Build image classification model using terrain dataset
