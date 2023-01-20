@@ -7,7 +7,7 @@ Tools:
 
 ---
 ## Data Science and Visualization
-- [ConDrossiers Employee Analysis in COVID 19 Situation](ConDrossiers Employee Analysis in COVID 19 Situation.ipynb) : Analysis of employee retainment because of pandemic era. We used machine learning model to predict how many employee would resign based on several features
+- [ConDrossiers Employee Analysis in COVID 19 Situation](../Data-Science-Portfolio-Project/blob/main/Data%20Analytics%20and%20Visualization/ConDrossiers%20Employee%20Analysis%20in%20COVID%2019%20Situation.ipynb) : Analysis of employee retainment because of pandemic era. We used machine learning model to predict how many employee would resign based on several features
 - NYC Yellow Taxi Analysis : Analysis of Trip Data in September 2021 including data cleaning and regression model for taxi fare amount
 
 ## Machine Learning Model
